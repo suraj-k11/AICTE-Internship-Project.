@@ -87,6 +87,6 @@ Run all cells to reproduce preprocessing, model training, evaluation, and plots.
 
 👨‍💻 Contributors
 
-[Your Name] — AICTE Edunet Intern
+SURAJ KUMAR SHARMA — AICTE Edunet Intern
 
 (End of Week 2 log)
